@@ -38,7 +38,7 @@ This project searches and displays meals from an data fetched from an API. When 
 
 - [The Meal DB](https://www.themealdb.com/api/)
 
-#### Front end deployed to `GitHub Pages`
+### Front end deployed to `GitHub Pages`
 
 > [Meal Finder](https://sjeremich23.github.io/Meal-Finder/)
 
