@@ -45,3 +45,5 @@ This project searches and displays meals from an data fetched from an API. When 
 # Installation Instructions
 
 - Fork and clone the repo to install it as your own remote.
+- Set up your project/file architecture however you want
+- Start coding!
