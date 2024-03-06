@@ -1,6 +1,6 @@
 # Meal Finder
 
-You can find the deployed project at [Meal Finder](https://sjeremich23.github.io/Meal-Finder/)
+You can find the deployed project at [Meal Finder](https://shanejeremich.github.io/Meal-Finder/)
 
 ## Overview
 
@@ -13,10 +13,10 @@ This project searches and displays meals from an data fetched from an API. When 
 
 ## Contributors
 
-|                                        [Shane Jeremich](https://github.com/sjeremich23)                                        |
+|                                        [Shane Jeremich](https://github.com/shanejeremich)                                        |
 | :----------------------------------------------------------------------------------------------------------------------------: |
-|                         [<img src="images/shane.png" width = "200" />](https://github.com/sjeremich23)                         |
-|                    [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/sjeremich23)                    |
+|                         [<img src="https://avatars.githubusercontent.com/u/51142646?v=4" width = "200" />](https://github.com/shanejeremich)                         |
+|                    [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/shanejeremich)                    |
 | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/shanejeremich/) |
 
 <br>
@@ -40,7 +40,7 @@ This project searches and displays meals from an data fetched from an API. When 
 
 ### Front end deployed to `GitHub Pages`
 
-> [Meal Finder](https://sjeremich23.github.io/Meal-Finder/)
+> [Meal Finder](https://shanejeremich.github.io/Meal-Finder/)
 
 # Installation Instructions
 
